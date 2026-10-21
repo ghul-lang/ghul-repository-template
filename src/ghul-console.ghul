@@ -1,6 +1,6 @@
 namespace Template is
     // This is deliberately over-engineered to make it easier to demostrate unit tests.
-    // for a streamlined version of the same thing see https://github.com/degory/ghul-templates/blob/main/templates/ghul-console/src/ghul-console.ghul
+    // for a streamlined version of the same thing see https://github.com/ghul-lang/ghul-templates/blob/main/templates/ghul-console/src/ghul-console.ghul
 
     entry() =>
         HELLO_WORLD_GREETER(IO.Std.out)
