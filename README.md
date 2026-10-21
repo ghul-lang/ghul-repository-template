@@ -1,10 +1,10 @@
 # ghūl repository template
 
-[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-repository-template/cicd.yml?branch=main)](https://github.com/degory/ghul-repository-template/actions?query=workflow%3ACICD)
-[![Release](https://img.shields.io/github/v/release/degory/ghul-repository-template?label=release)](https://github.com/degory/ghul-repository-template/releases)
-[![Release Date](https://img.shields.io/github/release-date/degory/ghul-repository-template)](https://github.com/degory/ghul-repository-template/releases) 
-[![Issues](https://img.shields.io/github/issues-search/degory/ghul?query=is%3Aopen%20is%3Aissue%20label%3Aghul-repository-template&label=issues)](https://github.com/degory/ghul/issues?q=is%3Aopen+is%3Aissue+label%3Aghul-repository-template) 
-[![License](https://img.shields.io/github/license/degory/ghul-repository-template)](https://github.com/degory/ghul-repository-template/blob/main/LICENSE)
+[![CI/CD](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-repository-template/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-repository-template/actions?query=workflow%3ACICD)
+[![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-repository-template?label=release)](https://github.com/ghul-lang/ghul-repository-template/releases)
+[![Release Date](https://img.shields.io/github/release-date/ghul-lang/ghul-repository-template)](https://github.com/ghul-lang/ghul-repository-template/releases) 
+[![Issues](https://img.shields.io/github/issues-search/ghul-lang/ghul?query=is%3Aopen%20is%3Aissue%20label%3Aghul-repository-template&label=issues)](https://github.com/ghul-lang/ghul/issues?q=is%3Aopen+is%3Aissue+label%3Aghul-repository-template) 
+[![License](https://img.shields.io/github/license/ghul-lang/ghul-repository-template)](https://github.com/ghul-lang/ghul-repository-template/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 
@@ -37,7 +37,7 @@ You'll need a development environment with the [.NET 10.0 SDK](https://dotnet.mi
  
 ## Creating your ghūl project repository from the template
 
-Click the ['Use this template'](https://github.com/degory/ghul-repository-template/generate) button.
+Click the ['Use this template'](https://github.com/ghul-lang/ghul-repository-template/generate) button.
 
 ## Opening your new ghūl project repo
 
@@ -94,4 +94,4 @@ For pushes to main, the pipeline will also:
 ghūl code looks best in the [Fira Code](https://github.com/tonsky/FiraCode) font. Fira Code combined with the `ss07` ligatures setting in `settings.json` gives the preferred rendering of ghūl operators/
 ## Issues
 
-[View open issues](https://github.com/degory/ghul/issues?q=is%3Aopen+is%3Aissue+label%3Aghul-repository-template) or [raise a new one](https://github.com/degory/ghul/issues/new?labels=ghul-repository-template).
+[View open issues](https://github.com/ghul-lang/ghul/issues?q=is%3Aopen+is%3Aissue+label%3Aghul-repository-template) or [raise a new one](https://github.com/ghul-lang/ghul/issues/new?labels=ghul-repository-template).
